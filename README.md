@@ -1,7 +1,8 @@
 # PRODUCT-RECOMMENDATION-SYSTEM-BY-ML-TECHNIQUE
 
 
-Abstract :It is getting harder and harder for people in today's fast-paced world to juggle both their professional and personal lives while maintaining time for oneself. As an outcome, a lot of people now use purchasing goods online as a practical fix. Due to time and labor savings, stress reduction, and elimination of the requirement to physically go to businesses to make purchases, purchasing goods via the internet has become a vital element of modern living. Instead, all of one's wants are met by websites with a single click. Due to the extensive usage of the internet, e-commerce and internet-based shopping have seen rapid growth in the past few years. Online stores strive with each other to deliver better client services while offering a variety of goods and services. The goal of the research is to create a software initiative named "Product Reviews Analysis" which will identify attitudes, perspectives, and emotions in review or comments left by users on these online marketplaces and retailing sites. By giving them a greater knowledge of the various possibilities accessible, this tool may assist individuals make educated judgements.
+Abstract :It is going harder day by day in this fast world to manage both busy life and shopping life to save time so many people are going to buy things in online for those who are struggling to find good products we are giving recommndation of product by devoloping application that PRODUCT RECOMENDATION SYSTEM BY ML TECHNQUE.
+
 
 ***************************************************************************************
 
