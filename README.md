@@ -1,7 +1,7 @@
 # Poduct-Recommendation-System-By-ML-Technique
 
 
-Abstract :It is going harder day by day in this fast world to manage both busy life and shopping life to save time so many people are going to buy things in online for those who are struggling to find good products we are giving recommndation of product by devoloping application that PRODUCT RECOMENDATION SYSTEM BY ML TECHNQUE.
+ABSTRACT: It is going harder day by day in this fast world to manage both busy life and shopping life to save time so many people are going to buy things in online for those who are struggling to find good products we are giving recommndation of product by devoloping application that PRODUCT RECOMENDATION SYSTEM BY ML TECHNQUE.
 
 
 ***************************************************************************************
